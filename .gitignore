@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+# Ignore all files starting with a dot
+.*
+jellyfish-types.zip
+# Except for the .git directory
+!.git
+!.gitignore
+*/
+pyvenv.cfg
+# Except for specific directories
+!/folder2/
