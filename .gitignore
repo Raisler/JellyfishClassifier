@@ -9,3 +9,4 @@ jellyfish-types.zip
 pyvenv.cfg
 # Except for specific directories
 !/folder2/
+pokemon.ipynb
